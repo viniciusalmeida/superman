@@ -174,7 +174,7 @@ hi link cartoVariable           Tag
 
 " Ruby
 hi link rubySharpBang           Normal
-hi link rubyControl             Comment
+hi link rubyControl             Character
 
 " Javascript
 hi link jsNumber        Boolean
